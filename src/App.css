@@ -340,7 +340,7 @@ background: -webkit-linear-gradient(rgb(255,93,62), rgb(237,53,135));
 .mainpd{
   display:flex;
   width:84vw;
-  
+  justify-content: space-evenly;
   margin-left:12vw;
   margin-right:4vw;
   flex-direction: row;
@@ -603,6 +603,4 @@ background: -webkit-linear-gradient(rgb(255,93,62), rgb(237,53,135));
   padding-left: 30vw;
   padding-right:30vw;
 }
-
-
 }
