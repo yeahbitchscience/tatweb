@@ -31,6 +31,7 @@ function Firstwarning() {
         .pauseFor(500)
         .deleteAll()
         .start()
+        .pauseFor(100)
       }}
       />
     </div>

@@ -457,3 +457,152 @@ background: -webkit-linear-gradient(rgb(255,93,62), rgb(237,53,135));
   justify-content:center;
   padding-left:10vw;
 }
+
+
+
+@media only screen and (min-width: 600px) {
+  .icons{
+    padding-left:43vw;
+    padding-right: 43vw;  
+  }
+  .icon{
+    font-size: 3em;
+  }
+  
+  .dist{
+    padding-left: 25vw;
+    padding-right: 25vw;
+    width:50vw; 
+     font-size: 0.9em;
+
+  }
+  .welcome{
+    margin-left: 20vw;
+    margin-right: 20vw;
+    width:60vw;
+  
+  }
+
+  .welcomet{
+    width:60vw;
+    font-size: 2em;
+}
+
+.tmaind{
+  width: 64vw;
+  padding-top: 8vh;
+  padding-bottom:3vh;
+  padding-left: 18vw;
+  padding-right: 18vw;
+}
+
+.num{
+font-size:3.5em;
+font-weight: 800;
+background: -webkit-linear-gradient(rgb(255,93,62), rgb(237,53,135));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.ds{
+  padding-top:0.5vh;
+  font-size: 0.7em;
+}
+
+
+.pfp{
+  width: 6em;
+  height:6em;
+  border-radius: 5px;
+}
+
+.teamm{
+  display: flex;
+  margin-bottom: 3vh;
+  
+}
+
+.name{
+  font-size: 0.9em;
+  font-weight: 800;
+}
+.pdis{
+  font-size:0.7em;
+  font-weight: 600;
+}
+
+.pdism{
+  text-align: left;
+  padding-left: 2vw;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-direction: column;
+  height:3em;
+}
+
+.mainpd{
+  display:flex;
+  width:60vw;
+  margin-left:20vw;
+  margin-right:20vw;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+.mainpd1{
+  display:flex;
+  flex-direction: column;
+}
+
+.icond{
+  padding-top: 6vh;
+ display: flex;
+ padding-left:43vw;
+ padding-right:43vw;
+ width: 14vw;
+ justify-content: space-between;
+}
+
+.icont{
+ color: white;
+ font-size: 2.5em;
+}
+
+.join{
+  width:70vw;
+  padding-left: 15vw;
+  padding-right: 15vw;
+  font-size: 2.2em;
+}
+.fqc{
+  width:74vw;
+  margin-left:12vw;
+  margin-right: 14vw;
+  hyphens: auto;
+  word-wrap: break-word;
+  text-align: left;
+  font-size: 0.8em;
+  font-weight:600;
+}
+.typewriter{
+  font-size: 1.3em;
+}
+
+.testr{
+  width: 40vw;
+  height: 40vw;
+  background-size: cover;
+  background-position: center;
+  border-radius: 15px;
+}
+
+.slide-container{
+  width: 40vw;
+  height: 40vw;
+  margin-top:2vh;
+  padding-left: 30vw;
+  padding-right:30vw;
+}
+
+
+}

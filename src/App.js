@@ -1,12 +1,15 @@
 import './App.css';
 import Firstwarning from './components/firstwarning';
 import Landing from './components/landing';
-
+import {useState} from 'react';
 
 function App() {
+
+  const[check,Setcheck] =useState(!true)
   return (
     <div className="App">
-      <Landing/>
+      {check ? <Firstwarning/> : <Landing/>}
+     
     </div>
   );
 }
