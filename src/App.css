@@ -7,6 +7,12 @@
   padding:0px;
 }
 
+a{
+  color:white;
+  text-decoration: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
 .App {
   text-align: center;
   margin: 0;

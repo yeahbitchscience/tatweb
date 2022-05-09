@@ -129,17 +129,30 @@ Honestly, life is good here in the tribe...Chorles takes care of us and has show
     </div>
     <div className="mainpd">
     <div className="mainpd1">
+    <a href = "https://twitter.com/defigemhunt/" >
     <Teamp name = "LYSERGIC" dis ="Co-Founder" pfp = {lys}/>
+    </a>
+    <a href = "https://twitter.com/JPEGASUS69/" >
     <Teamp name = "DANNY DEVITOKEN" dis ="Co-Founder" pfp = {dan}/>
+    </a>
+    <a href = "https://twitter.com/KulbikC/" >
     <Teamp name = "KING KULBIK" dis ="Community Manager" pfp = {king}/>
+    </a>
     
-
+<a href = "https://twitter.com/fenrusgmi/" >
     <Teamp name = "FENRUS" dis ="Marketing Lead" pfp = {fen}/>
+    </a>
     </div>
     <div className="mainpd1">
+    <a href = "https://www.instagram.com/fighouse_/" >
     <Teamp name = "DANIEL TIMOTHY" dis ="Artist" pfp = {fi}/>
+    </a>
+    <a href = "https://twitter.com/FlippaNft/" >
     <Teamp name = "TOP10BRISKETRECIPES" dis ="Developer" pfp = {top}/>
+    </a>
+    <a href = "https://twitter.com/CryptoniteApe" >
     <Teamp name = "SOL MATE" dis ="Developer" pfp = {sol}/>
+    </a>
     </div>
     </div>
     <div className = "faqh">
