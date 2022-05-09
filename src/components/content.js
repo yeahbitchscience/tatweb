@@ -72,7 +72,7 @@ function Content() {
       <div className="tnum">
       <div className="tdis">
       <h1 className="num">
-      150K+
+      240K+
       </h1>
       <p className="ds">
       Followers On Twitter
@@ -80,7 +80,7 @@ function Content() {
       </div>
       <div className="tdis">
       <h1 className="num">
-      140K+
+      175K+
       </h1>
       <p className="ds">
       Psychedelic-Friendly Degens On Discord
